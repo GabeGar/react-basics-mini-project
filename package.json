@@ -1,8 +1,7 @@
 {
-  "name": "react-the-complete-guide",
+  "name": "react-basics-mini-project",
   "version": "0.1.0",
-  "homepage": "https://Gabegar.github.io/react-basics-project",
-  "private": true,
+  "homepage": "https://gabegar.github.io/react-basics-mini-project",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
