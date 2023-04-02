@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-basics-project/static/css/main.a6a70324.css",
-    "main.js": "/react-basics-project/static/js/main.37db728c.js",
-    "index.html": "/react-basics-project/index.html",
-    "main.a6a70324.css.map": "/react-basics-project/static/css/main.a6a70324.css.map",
-    "main.37db728c.js.map": "/react-basics-project/static/js/main.37db728c.js.map"
+    "main.css": "/react-basics-mini-project/static/css/main.a6a70324.css",
+    "main.js": "/react-basics-mini-project/static/js/main.37db728c.js",
+    "index.html": "/react-basics-mini-project/index.html",
+    "main.a6a70324.css.map": "/react-basics-mini-project/static/css/main.a6a70324.css.map",
+    "main.37db728c.js.map": "/react-basics-mini-project/static/js/main.37db728c.js.map"
   },
   "entrypoints": [
     "static/css/main.a6a70324.css",
